@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://von_revy.gitee.io/notes/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/notes/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/2020/10/11/my-hexo/</loc>
+    <loc>https://von_revy.gitee.io/von_revy/2020/10/11/my-hexo/</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/links/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/links/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/conmment/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/conmment/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/about/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/about/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/tags/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/tags/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://von_revy.gitee.io/categories/index.html</loc>
+    <loc>https://von_revy.gitee.io/von_revy/categories/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
@@ -52,7 +52,7 @@
   
 
   <url>
-    <loc>https://von_revy.gitee.io/</loc>
+    <loc>https://von_revy.gitee.io/von_revy</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
