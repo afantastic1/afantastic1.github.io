@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://afantastic1.github.io/2020/10/11/my-hexo/</loc>
+    <loc>https://von_revy.gitee.io/2020/10/11/my-hexo/</loc>
     
     <lastmod>2020-10-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://afantastic1.github.io/2020/10/11/hello-world/</loc>
+    <loc>https://von_revy.gitee.io/2020/10/11/hello-world/</loc>
     
     <lastmod>2020-10-11</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>http://afantastic1.github.io/</loc>
+    <loc>https://von_revy.gitee.io/</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
